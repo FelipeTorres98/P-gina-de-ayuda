@@ -1,0 +1,224 @@
+.version.paquetes /* version checker */
+{
+	color: #00001E;
+	background-color: #08BDDD;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 500px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	width: 100%;
+	max-width: 1080px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -112px;
+	padding-top: 47px;
+	width: 100%;
+}
+
+#u1268
+{
+	z-index: 2;
+	background-color: transparent;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 177.78%;
+	max-width: 1920px;
+}
+
+#buttonu1241
+{
+	z-index: 5;
+	border-color: #787878;
+	background-color: #12D7FF;
+	border-radius: 10px;
+	padding-bottom: 13px;
+	position: relative;
+	width: 21.39%;
+	margin-left: 88.62%;
+}
+
+#buttonu1241:hover
+{
+	background-color: #545454;
+	min-height: 0px;
+	width: 21.39%;
+	margin: 0px 0px 0px 88.61111111111111%;
+}
+
+#u1242-4
+{
+	z-index: 6;
+	min-height: 23px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 20px;
+	color: #F8FFEC;
+	line-height: 24px;
+	letter-spacing: 1px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	width: 64.07%;
+	left: 17.75%;
+}
+
+#buttonu1241:hover #u1242-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 64.07%;
+	margin: 13px -10000px 0px 0%;
+}
+
+#buttonu1241:hover #u1242-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu1307
+{
+	z-index: 10;
+	border-color: #787878;
+	background-color: #12D7FF;
+	border-radius: 10px;
+	padding-bottom: 13px;
+	margin-top: 18px;
+	position: relative;
+	width: 21.39%;
+	margin-left: 88.62%;
+}
+
+#buttonu1307:hover
+{
+	background-color: #545454;
+	min-height: 0px;
+	width: 21.39%;
+	margin: 18px 0px 0px 88.61111111111111%;
+}
+
+#u1308-4
+{
+	z-index: 11;
+	min-height: 23px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 20px;
+	color: #F8FFEC;
+	line-height: 24px;
+	letter-spacing: 1px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	width: 64.07%;
+	left: 17.75%;
+}
+
+#buttonu1241.ButtonSelected #u1242-4,#buttonu1307:hover #u1308-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 64.07%;
+	margin: 13px -10000px 0px 0%;
+}
+
+#buttonu1307.ButtonSelected #u1308-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 64.07%;
+	margin: 13px -10000px 0px 0%;
+}
+
+#buttonu1307:hover #u1308-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu1241.ButtonSelected #u1242-4 p,#buttonu1307.ButtonSelected #u1308-4 p
+{
+	color: #F8FFEC;
+	visibility: inherit;
+}
+
+#u1221
+{
+	z-index: 4;
+	height: 1075px;
+	background: transparent url("../images/sin%20t%c3%adtulo-2.jpg") no-repeat left top;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u1221-bw
+{
+	z-index: 4;
+	margin-top: 8px;
+	height: 1075px;
+}
+
+#u1352
+{
+	z-index: 15;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 177.78%;
+	left: -40.65%;
+}
+
+#u1268_img,#pu1352,#u1352_img
+{
+	width: 100%;
+}
+
+#u1359-14
+{
+	z-index: 17;
+	min-height: 101px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 27px;
+	width: 36.76%;
+	left: 100.38%;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 700px;
+}
+

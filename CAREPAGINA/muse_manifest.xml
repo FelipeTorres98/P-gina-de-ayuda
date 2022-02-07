@@ -1,0 +1,47 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="WWW.CARE.COM" resolutions="1x" timestamp="1590734638387">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="paquetes.css" crc="503889373" ref="paquetes"/>
+    <file name="index.css" crc="518073622" ref="index"/>
+    <file name="pago.css" crc="532994255" ref="pago"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:pago:paquetes"/>
+    <file name="museutils.js" crc="3790713428" ref="index:pago:paquetes"/>
+    <file name="whatinput.js" crc="84559013" ref="index:pago:paquetes"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:pago:paquetes"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:pago:paquetes"/>
+  </folder>
+  <folder name="images">
+    <file name="sin título-1-u138-fr.png" crc="194190776" ref="index"/>
+    <file name="u1126-9.png" crc="4201514575" ref="index"/>
+    <file name="u1153-7.png" crc="3877919811" ref="index"/>
+    <file name="u159-4.png" crc="191749168" ref="index"/>
+    <file name="nina_sonriente_con_sindrome_de_down.jpg" crc="4244810955" seo="true" ref="index"/>
+    <file name="u1168-4.png" crc="4027062172" ref="index"/>
+    <file name="u1205-4.png" crc="3788930608" ref="index"/>
+    <file name="1518097734_975326_1518099082_noticia_normal.jpg" crc="442775013" seo="true" ref="index"/>
+    <file name="images.jpg" crc="3982698139" seo="true" ref="index"/>
+    <file name="u1330-5.png" crc="4188881427" ref="index"/>
+    <file name="doctor-feliz-sujetando-portapapeles-sus-pacientes_1098-2176.jpg" crc="490653519" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="descarga (1).jpg" crc="3948540751" seo="true" ref="index"/>
+    <file name="file-20191203-66986-im7o5.jpg" crc="4030946067" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="care itecnologico.jpg" crc="488829366" seo="true" ref="index"/>
+    <file name="care tec nm.jpg" crc="404852008" seo="true" ref="index"/>
+    <file name="care tecnmx.jpg" crc="128730522" seo="true" ref="index"/>
+    <file name="care tecnologico.jpg" crc="3985622583" seo="true" ref="index"/>
+    <file name="caretecnmxx.jpg" crc="474181288" seo="true" ref="index"/>
+    <file name="sin título-1.jpg" crc="292067228" seo="true" ref="index:pago:paquetes"/>
+    <file name="sin título-1.png" crc="445903127" seo="true" ref="paquetes"/>
+    <file name="sin título-2.jpg" crc="342942632" ref="paquetes"/>
+  </folder>
+  <file name="index.html" crc="424332055" seo="true" mt="1590734603704" redirect="true"/>
+  <file name="pago.html" crc="252409128" seo="true" mt="1590734461719" redirect="true"/>
+  <file name="paquetes.html" crc="252862880" seo="true" mt="1590734529076" redirect="true"/>
+</manifest>
